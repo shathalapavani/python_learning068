@@ -1,58 +1,58 @@
 #if
-n = 1 
+n = 1  
 if n == 1:
-    print(1)
-print(2)
+    print(1) #1
+print(2)     #2
 print()
 
 #if-else 
-n = 10
+n = 10       
 if n == 10:
-    print(1)
+    print(1)   #1
 else:
-    print(2)
-print(3)
+    print(2)   #2
+print(3)       #3
 print() 
 if n == 20:
-    print(1)
+    print(1)   #1
 else:
-    print(2)
-print(3)
+    print(2)   #2
+print(3)       #3
 print()
 
 #if-elif-else
 n = 3
 if n == 1:
-    print(1)
+    print(1)   #1
 elif n == 2:
-    print(2)
+    print(2)   #2
 elif n == 3:
-    print(3)
+    print(3)   #3
 else:
-    print(10)
-print(11)
+    print(10)  #10
+print(11)      #11
 print()
 n = 5
 if n == 1:
-    print(1)
-elif n == 2:
-    print(2)
+     print(1)   #1
+elif n == 2:    
+    print(2)    #2
 elif n == 3:
-    print(3)
+    print(3)    #3
 else:
-    print(10)
-print(11)
+    print(10)   #10
+print(11)      #11
 
 #nested-if
 ch = 'A'  #one char
 if ch.isalpha():
-    if 65 <= ord(ch) <= 90:
-        print('upper case letter')
+    if 65 <= ord(ch) <= 90: 
+        print('upper case letter') 
     elif 97 <= ord(ch) <= 122:
         print('lower case letter')
 else:
     print('not an letter')
-print(1)
+print(1)                          
 
 #match case 
 day = 5 
