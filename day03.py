@@ -384,4 +384,4 @@ print(list(b)[:3])
 # Dictionary does not support slicing
 c = {1: 'a', 2: 'b', 3: 'c'}
 
-print(list(c.items())[:2])
+print(list(c.items())[:2]) 
