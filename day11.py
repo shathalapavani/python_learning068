@@ -40,7 +40,7 @@ while x < 5:
 else:
     print('Loop completed successfully')
 print()
-
+  
 #nested loops
 for x in range(1,4):
     for y in range(4,7):
