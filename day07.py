@@ -179,4 +179,5 @@ l = (1, 2, 1, 4, 1, 6, 7, 1)
 
 print(l.count(1))
 
+
 print(l.count(9))
