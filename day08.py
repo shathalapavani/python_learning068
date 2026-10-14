@@ -5,7 +5,7 @@ if n == 1:
 print(2)     #2
 print()
 
-
+  
 #if-else 
 n = 10       
 if n == 10:
