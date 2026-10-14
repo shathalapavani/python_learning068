@@ -24,7 +24,7 @@ total = 0
 
 for i in range(10, 26):
     total += i
-
+  
 print(total)
 #7. sum of numbers in any list
 numbers = [10, 20, 30, 40, 50]
