@@ -288,4 +288,5 @@ print(a)
 
 a = [1, 2, 3] if 5 < 10 else (1, 2, 3)
 
+
 print(a)
