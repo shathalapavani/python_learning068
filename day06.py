@@ -119,6 +119,7 @@ print(a, l)
 print(id(l))
 
 
+
 # sort()
 
 l = [1, 4, 2, 6, 5, 3]
