@@ -168,5 +168,6 @@ b = ['1', '2', '3']
 
 # print('@'.join(a))      # Error: join() requires strings, not integers
 
+
 print('@'.join(map(str, a)))
 print('@'.join(b))
